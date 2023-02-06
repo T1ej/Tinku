@@ -1,5 +1,5 @@
 # Tinku
-k8djsadhhshhsfhsvkbvv
+Kallllasnikavoooooooooo
 "K8s Means Kubernetes"  
 K8S
 an open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications 
