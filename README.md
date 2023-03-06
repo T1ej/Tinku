@@ -1,5 +1,5 @@
 # Tinku
-k8djsadhhshhsfhsvkbvv
+Kallllasnikavoooooooooo
 "K8s Means Kubernetes"  
 K8S
 
